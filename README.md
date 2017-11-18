@@ -1,2 +1,2 @@
 # PythonReloadModule
-reload module for python3
+Script for reload module in python2
